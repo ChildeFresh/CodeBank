@@ -11,8 +11,16 @@ public class StringUtils {
 		return true;
 	}
 	
-	public static String trimBoth(final String str){
-		return str==null?null:str.trim();
+	public static String trimStart(final String str){
+		return null;
 	}
+	public static String trimEnd(final String str){
+		return null;
+	}
+	public static String trimBoth(final String str){
+		return null;
+	}
+	
+	
 	
 }
